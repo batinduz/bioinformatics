@@ -1,7 +1,10 @@
 from mkt_direction import Direction
 
 direction = Direction(5)
-direction.complementary()
+print (direction)
 
-print (direction.start)
+
+direction.complementary()
+print ("Complementary")
+
 print (direction)
