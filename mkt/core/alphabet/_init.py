@@ -4,3 +4,7 @@ alphabet = Alphabet('AAAATTTCCTGTAGGGTA')
 
 print ("3 lü Kmerler:")
 print (alphabet.kmer(3))
+print ("Letters:")
+
+
+print (alphabet.letters())
